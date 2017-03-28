@@ -1,0 +1,104 @@
+body {
+  font-family: Anonymous Pro, Courier;
+  font-size: 1em;
+  background-color: #eeeeee;
+}
+h1 {
+  font-family: Cedarville Cursive, Courier;
+  color: #212121;
+  text-align: center;
+  font-size: 175px;
+  margin: 0 auto;
+}
+#name {
+  font-size: 195px;
+}
+.header {
+  height: 175px;
+  width: 100%;
+  background-color: #666666;
+  text-align: center;
+}
+.header h1 {
+  color: #000000;
+  display: block;
+  position: absolute;
+  left: 17%;
+  margin-top: -75px;
+  z-index:1;
+}
+.Button {
+  display: inline-block;
+  font-family: Cedarville Cursive, Courier;
+  color: #eeeeee;
+  text-align: center;
+  font-size: 25px;
+  padding-left: 15px;
+  padding-right: 10px;
+}
+.Button:hover {
+    color: #8C001A;
+}
+.buttonWrapper {
+  margin-top: 175px;
+  margin-right: 30px;
+  float:right;
+  background-color: #1e1e1e;
+
+}
+.headshot {
+  height: 350px;
+  width: 260px;
+  border: 10px solid #212121;
+  float: left;
+  margin-top: -30px;
+  margin-left: 40px;
+}
+.headshot img {
+  width: 100%;
+  height: inherit;
+  overflow: hidden;
+  border-color: #666666;
+}
+h2 {
+  font-family: Anonymous Pro, Courier;
+  color: #464442;
+  text-align: left;
+  font-size: 35px;
+  margin: 0 auto;
+  position: relative;
+  margin-top: 30px;
+  margin-left: 510px;
+  line-height: 20px;
+}
+.bullets {
+  font-family: Anonymous Pro, Courier;
+  color: #464442;
+  font-size: 20px;
+  margin: 0 auto;
+  float: right;
+  width: 73%;
+}
+.bullets ul li {
+  line-height: 40px;
+}
+a {
+  text-decoration: none;
+  color: #212121;
+}
+a:hover {
+    color: #8C001A;
+}
+.footer {
+  height: 75px;
+  width: 100%;
+  background-color: #666666;
+  position: absolute;
+  bottom: 0px;
+  margin: 0 auto;
+}
+/*fawn= #e9e0d6*/
+/*light grey= #9d9791*/
+/*dark grey= #464442*/
+/*blue= #3d718d*/
+/*teal = #29aba4*/
