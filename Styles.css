@@ -37,7 +37,7 @@ h1 {
   padding-right: 10px;
 }
 .Button:hover {
-    color: #8C001A;
+    color: #E8554E;
 }
 .buttonWrapper {
   margin-top: 175px;
@@ -67,7 +67,8 @@ h2 {
   margin: 0 auto;
   position: relative;
   margin-top: 30px;
-  margin-left: 510px;
+  margin-left: 470px;
+  padding-bottom: 20px;
   line-height: 20px;
 }
 .bullets {
@@ -86,7 +87,7 @@ a {
   color: #212121;
 }
 a:hover {
-    color: #8C001A;
+    color: #E8554E;
 }
 .footer {
   height: 75px;
@@ -96,8 +97,3 @@ a:hover {
   bottom: 0px;
   margin: 0 auto;
 }
-/*fawn= #e9e0d6*/
-/*light grey= #9d9791*/
-/*dark grey= #464442*/
-/*blue= #3d718d*/
-/*teal = #29aba4*/
